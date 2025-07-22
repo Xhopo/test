@@ -643,6 +643,9 @@
         <mxCell id="C31WxNjCbk0ZrxlacB-T-354" value="th_sel" style="text;whiteSpace=wrap;html=1;strokeWidth=3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="131" y="189" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="C31WxNjCbk0ZrxlacB-T-355" value="module: slope_comparer" style="text;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Verdana;fontSize=17;fontColor=default;labelBackgroundColor=default;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="100" y="846" width="280" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
