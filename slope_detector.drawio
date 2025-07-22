@@ -624,6 +624,9 @@
         <mxCell id="C31WxNjCbk0ZrxlacB-T-346" value="&lt;font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;abs(din) &amp;gt; abs(temp_max)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;glass=0;shadow=0;fontFamily=Times New Roman;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="564" y="457.75" width="190" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="C31WxNjCbk0ZrxlacB-T-348" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;continue sreach maxium slope after first point found until win_cnt &amp;gt; (win_th+loc)&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;textShadow=0;labelBackgroundColor=none;glass=0;shadow=0;fontFamily=Times New Roman;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="355" y="539" width="230" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
