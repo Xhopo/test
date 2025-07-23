@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="第 1 页" id="9sJfBkEP3ezxj0zS32Ns">
-    <mxGraphModel dx="1226" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -922,6 +922,11 @@
         <mxCell id="yV69nBCy1edd1DYRwR0H-238" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="640" y="1381.5" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="yV69nBCy1edd1DYRwR0H-241" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;elbow=vertical;endArrow=block;endFill=1;" edge="1" parent="1" source="yV69nBCy1edd1DYRwR0H-239">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="1347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="yV69nBCy1edd1DYRwR0H-239" value="AND" style="shape=or;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=13;shadow=0;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="679.5" y="1326.03" width="40" height="42.67" as="geometry" />
         </mxCell>
@@ -932,6 +937,9 @@
               <mxPoint x="667.47" y="1358" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yV69nBCy1edd1DYRwR0H-242" value="bit_data" style="text;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="737.06" y="1322.0900000000001" width="64.97" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
