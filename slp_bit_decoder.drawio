@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="第 1 页" id="9sJfBkEP3ezxj0zS32Ns">
-    <mxGraphModel dx="815" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -678,8 +678,20 @@
         <mxCell id="DD05EDXdn0E1KSdpGYpf-149" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACoAAAA5CAMAAAEAWHnKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA/UExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALMlgi8AAAAUdFJOUwAIEIcglzCfOKdAt1jPaHDf54Dv4vA5JAAAAAlwSFlzAAAXEQAAFxEByibzPwAAAQdJREFUOE/tlNsOgjAQRAfEu1WE+f9vNe1KW7YrQgIPJs5DszkMs2VJC2hR1l2qI0smrSaswdCnUrA8mxIZoymvC40lwJiSquVyQ6RL4V0sO8JJdc9a5/0SznZsVKhitbb01zeOpPytXE9PFevIPk4gY2MCoKU9ZNq87GRbLVYZ7Gd00wB4kKcSlROqA2wVFawD/OCKAA8vRQDJA2oVEKCWCWFsCcBxKT5r9oGaCVtAXC0I7DX4ax01D1deSlreZJ+DkY5iEhWHY6z6nWjdiVrd4Jxunxm/tRdjf/DbmGwfjV61fpppZJxU+PA5xuFGauddvDL9Lcxt2LGmhman/oJxyfCr60zjC0BSF19ImznkAAAAAElFTkSuQmCC;strokeWidth=3;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="819.45" y="714" width="21" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="DD05EDXdn0E1KSdpGYpf-151" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;abs(din) &amp;gt; abs(threshold)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fontColor=#FF3333;strokeWidth=3;fontStyle=1;textShadow=0;labelBackgroundColor=none;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="661" y="426.95" width="166.5" height="40" as="geometry" />
+        <mxCell id="DD05EDXdn0E1KSdpGYpf-151" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;width error thershold&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;fontColor=#FF3333;strokeWidth=3;fontStyle=1;textShadow=0;labelBackgroundColor=none;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="403.78000000000003" y="678.5" width="166.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DD05EDXdn0E1KSdpGYpf-152" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="DD05EDXdn0E1KSdpGYpf-151" target="DD05EDXdn0E1KSdpGYpf-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="680" as="sourcePoint" />
+            <mxPoint x="480" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DD05EDXdn0E1KSdpGYpf-153" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.995;entryY=0.641;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;strokeColor=#FF3333;" edge="1" parent="1" source="DD05EDXdn0E1KSdpGYpf-151" target="DD05EDXdn0E1KSdpGYpf-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="736" as="sourcePoint" />
+            <mxPoint x="440" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
