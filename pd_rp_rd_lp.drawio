@@ -422,7 +422,7 @@
         <mxCell id="vN00l0qTzNNKVDD8UDj6-29" value="wake-up request" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#BBEC92;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="485.79" y="412" width="127.24" height="32.95" as="geometry" />
         </mxCell>
-        <mxCell id="vN00l0qTzNNKVDD8UDj6-43" value="&lt;div&gt;reset software: checking source of reset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#384285, #281d00);strokeColor=none;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vN00l0qTzNNKVDD8UDj6-43" value="&lt;div&gt;start PD phy &amp;amp; mac&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#384285, #281d00);strokeColor=none;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="452.5" width="200.34" height="32.95" as="geometry" />
         </mxCell>
         <mxCell id="vN00l0qTzNNKVDD8UDj6-47" value="4K domain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -489,13 +489,13 @@
         <mxCell id="k-OjUfjaWByeUFr5w0yE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vN00l0qTzNNKVDD8UDj6-38" target="vN00l0qTzNNKVDD8UDj6-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vN00l0qTzNNKVDD8UDj6-38" value="latch current Rp/Rd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#BBEC92;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vN00l0qTzNNKVDD8UDj6-38" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;reset software: checking source of reset&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#384285, #281d00);strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="346.99526999739106" width="200.34000000000003" height="32.94589680397575" as="geometry" />
         </mxCell>
         <mxCell id="k-OjUfjaWByeUFr5w0yE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vN00l0qTzNNKVDD8UDj6-40" target="vN00l0qTzNNKVDD8UDj6-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vN00l0qTzNNKVDD8UDj6-40" value="&lt;div&gt;switch Rp/Rd control to 4K&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#BBEC92;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vN00l0qTzNNKVDD8UDj6-40" value="check current CC status" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#384285, #281d00);strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="399.6241031960243" width="200.34000000000003" height="32.94589680397575" as="geometry" />
         </mxCell>
         <mxCell id="k-OjUfjaWByeUFr5w0yE-148" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Wake-up REQ&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
