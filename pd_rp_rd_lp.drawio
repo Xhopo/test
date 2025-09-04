@@ -425,7 +425,7 @@
         <mxCell id="vN00l0qTzNNKVDD8UDj6-43" value="&lt;div&gt;reset software: checking source of reset&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=light-dark(#384285, #281d00);strokeColor=none;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="452.5" width="200.34" height="32.95" as="geometry" />
         </mxCell>
-        <mxCell id="vN00l0qTzNNKVDD8UDj6-47" value="4K domain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="vN00l0qTzNNKVDD8UDj6-47" value="4K domain" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="419.44517241379316" y="442.0005405405405" width="91.0344827586207" height="16.472972972972975" as="geometry" />
         </mxCell>
         <mxCell id="k-OjUfjaWByeUFr5w0yE-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k-OjUfjaWByeUFr5w0yE-0" target="k-OjUfjaWByeUFr5w0yE-1">
