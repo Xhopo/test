@@ -1751,9 +1751,6 @@
             <mxPoint x="3460" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pm46XLryfPwZHwWKOJp_-337" value="T1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=53;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="2790" y="657" width="110" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="Pm46XLryfPwZHwWKOJp_-338" value="T2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=53;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="3870" y="720" width="110" height="90" as="geometry" />
         </mxCell>
